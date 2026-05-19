@@ -7,7 +7,7 @@ Asteroids is a classic arcade game built using Python and the Pygame library. In
 ## Certificate
 
 <p align="center">
-  <img width="832" height="508" alt="Boot.dev Certificate" src="https://github.com/user-attachments/assets/6febac4c-f9db-4f71-9b59-bdb953485553" />
+  <img width="832" height="508" alt="bootdev_certificate-5" src="https://github.com/user-attachments/assets/53ba83ae-a755-4d40-92e7-6d4f2d2bb011" />
 </p>
 
 ## What I Learned
